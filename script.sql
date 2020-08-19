@@ -1,5 +1,8 @@
-create database Hotels 
+
+create database Hotels
+go
 use Hotels
+go
 
 Create table Hotel(
 Id int identity(1,1) primary key 
